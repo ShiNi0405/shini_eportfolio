@@ -15,5 +15,5 @@ recorded version.Besides ,we can listens more insight from the CTO which is very
 about the real worlds in IT.We can listen the story of his entrepreneurship.How is the IT
 landscape in Malaysia</h4>
 
-# 🤔Personal Reflections and Ideas 
-I should start coding and post more on github to increase my competencies.
+ <h3> 🤔Personal Reflections and Ideas  </h3>
+<h4>I should start coding and post more on github to increase my competencies. </h4>
