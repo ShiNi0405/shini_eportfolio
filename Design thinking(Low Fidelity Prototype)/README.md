@@ -1,5 +1,5 @@
 
- 
+ [Low Fidelity Prototype]   (https://marvelapp.com/prototype/fhbjjci/screen/96385642)
  <h2>🌟 Reflection</h2>  
  <h3> 📘 Summarizing What I Have Gained From This </h3>
 <h4> What I learned is that we should be more innovative and be mindful of the problems around us.This is because,as a computer science graduate,
@@ -7,7 +7,7 @@ we have a power to change it .</h4>
 
  <h3>💡Suggestions for Improvement </h3>
 <h4>To improve in this assignment,I think I should try to develop the actaul code for use and develop an MVP(Minimum Viable Product) and share it with 
-  the stakeholders to further maximize the potentiability of this idea.
+  the stakeholders to further maximize the potentiability of this idea.I should also do more to help lessen my groupmate's workload.
 </h4>
 
  <h3> 🤔Personal Reflections and Ideas  </h3>
