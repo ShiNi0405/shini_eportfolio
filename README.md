@@ -1,66 +1,71 @@
-Hey guys, I am Lai Shi Ni.I am a first year student of University of Technology Malaysia,
-studying in Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours.
-I worked as librarian, Nirvana life planner,digital marketing sales before I enroll my 
-studies.Now I am embarking a wonderful journey in utm.You can reach me by my email:
-shining4588@gmail.com
+# 👋 Hello, I'm Lai Shi Ni
 
-My Studies
-Education
-University Technology Malaysia, Now (2024 - 2028)
-Foundation Programme in physical science (2022 - 2023)
-SMK(P)Sultan Ibrahim (2017 - 2021)
+I am a first-year student at the University of Technology Malaysia (UTM) pursuing a **Bachelor of Computer Science (Graphics and Multimedia Software) with Honours**. Before embarking on my academic journey, I gained experience working as a librarian, Nirvana life planner, and digital marketing sales.
 
-Co-curriculum / Achievements
-Mar 2023 Organising Committee of Activity in Non-Corporate Relations (NCR) AIESECJB -
-Jeremiah project SDG-9
-2017 - Anugerah Srikandi Asmarawati
-2018 - 
-Bronze medal -3rd Wu Kwon MITEC Taekwondo Invitation Championship 2018 (International)
-2nd prize winner -12th JLFEST japanese calligraphy competition LEVEL 3 (NATIONAL)
-2019 -Anugerah Terbilang Kokorikulum (Peringkat Antarabangsa) Tahun 2019
-  1st prize -pertandingan kuiz bulan kemerdekaan (Asrama Malaysia Johor)
-  Bronze medal(10 th) larian SIGS80 (School)
-  Bronze medal 4TH WU KWON MITEC TAEKWONDO (INTERNATIONAL LEVEL)
-  1st prize -pertandingan melukis banner (Asrama Malaysia Johor)
-  district participation -Physics Online Quiz Competition (peringkat negeri)
-  TOP 200 Grand Finalist IMU SDC 2021
-  Consolation Prize -Benedict Mathematics Competition
+As I continue my studies, I am passionate about leveraging technology to solve problems and enhance human interaction. Here are a few highlights of my journey so far:
 
-Here are the compilations of co-curricular certificates I've earned 
-https://docs.google.com/presentation/d/1y4XvWZLhzclyS69DHDeDht50n6Fx6wBydDIhxnUm_-c/edit?usp=sharing
+![Profile Picture](URL_to_your_profile_picture)
 
-My journey
-Airost Internship Project
-I with my teammates ,team black mamba ,created an edu-robot using ROS1.This is the problem 
-statement-As students, we always face a lot of problems in our study. Thus instead of 
-studying, our focus is shifted towards typing out questions that we have into a search 
-engine hoping to get an answer. Some students who like to listen to music while studying
-might find that interacting with their laptops or phones to change volume, skip songs and
-selecting songs interferes with their focus, lowering their productivity as a result.We
-created an study aid device with features such as:
-- Recognizing and understanding human voice, and produce a respond to user through AI
-- Able to play songs and videos using youtube 
-- Using hand recognition to interact with the music player
-- Record Pomodoro sessions
-- Detect handphone in the camera view and shout -"PUT YOUR PHONE DOWN"
-I am in charge of building an API window that recognize and understand human voice and
-produce voice response by AI.I use groq playground to have API access to llama -3 model
-freely.Then I recognize the human voice by using google cloud speech to text(STT) and
-produce humanoid voice response by using google Text to Speech(TTS).In addition to that,
-I use voice activity detection to automatically detect 120 ms of silence and end the
-recording.Lastly,I chanelled and connected them using ros node subscription and publication
-service.
-This is the github link for my project-https://github.com/zhonghern/edu_robot.git
-This is my presentation slide for my project -https://www.canva.com/design/DAGYfGfkJaQ/q8vzPh1qmnGLJ8i2bdhlTA/edit?utm_content=DAGYfGfkJaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## 🎓 Education
 
-Robocon 20 day autocar challenge
-I joined the two day basic workshop on 25 to 26 October to gain some basic knowledge.Then
-I joined the autocar challenge on 3 -23 November and pull it through the whole challenge.
-I manage to produce -mainboard and sensor board schematic diagram
-- LED toggle with push button configuration
-- PCB layout for mainboard and sensor board
-- solder all of them together
-- a car that is able to follow the Forward and Backward command through UART
-  
+- **University Technology Malaysia** *(2024 - Present)*  
+  Bachelor of Computer Science (Graphics and Multimedia Software) with Honours
+- **Foundation Programme in Physical Science** *(2022 - 2023)*
+- **SMK(P) Sultan Ibrahim** *(2017 - 2021)*
+
+## 🏆 Co-Curricular Achievements
+
+- **Anugerah Srikandi Asmarawati** *(2017)*
+- **Bronze Medal** - 3rd Wu Kwon MITEC Taekwondo Invitation Championship *(2018, International)*
+- **1st Prize** - 12th JLFEST Japanese Calligraphy Competition *(National Level)*
+- **Anugerah Terbilang Kokorikulum** *(2019)*
+- **1st Prize** - Merdeka Month Quiz Competition *(Asrama Malaysia Johor)*
+- **Top 200 Grand Finalist** - IMU SDC 2021
+- **Consolation Prize** - Benedict Mathematics Competition
+- And many more...
+
+## 🌟 Projects
+
+### **Edu-Robot**  
+As part of the *Airost Internship Project*, my team developed an AI-powered study aid robot designed to help students stay focused and productive. Key features include:
+- Voice recognition and AI responses
+- Music and video playback via YouTube
+- Hand recognition to control media
+- Pomodoro timer tracking
+- A feature that detects phones in the view and shouts “PUT YOUR PHONE DOWN”
+
+I was responsible for building the **API window for voice recognition** and connecting it to the robot via **ROS nodes**.
+
+Check out the project on [GitHub](https://github.com/zhonghern/edu_robot.git) or view my [project presentation](https://www.canva.com/design/DAGYfGfkJaQ/q8vzPh1qmnGLJ8i2bdhlTA/edit?utm_content=DAGYfGfkJaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+### **Robocon 20-Day Autocar Challenge**  
+I participated in the Robocon challenge, where I contributed to:
+- Creating schematic diagrams for the mainboard and sensor board
+- Developing a car capable of following commands through UART
+- Designing the PCB layout and soldering components
+
+This project helped me push my limits and strengthened my resilience.
+
+## 🧠 Skills
+
+- **Programming Languages**: C++, Python, JavaScript
+- **Technologies**: ROS1, Google Cloud API, Llama-3 Model, Google Speech-to-Text and Text-to-Speech
+- **Software**: Git, VS Code, Unity, Blender
+- **Other**: Problem-Solving, Project Management, Team Collaboration
+
+## 🎓 Certifications
+
+- **Learn C Skill Path** - Codecademy
+
+## 🌐 Links
+
+- [GitHub](https://github.com/zhonghern)
+- [LinkedIn](https://www.linkedin.com/in/lai-shi-ni-6082801b2)
+- [Instagram](https://www.instagram.com/0405shini/)
+
+## 📬 Contact Me
+
+Feel free to reach out via email: [shining4588@gmail.com](mailto:shining4588@gmail.com)
+
 
 
