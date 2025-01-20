@@ -26,6 +26,8 @@ As I continue my studies, I am passionate about leveraging technology to solve p
 - **Top 200 Grand Finalist** - IMU SDC 2021
 - **Consolation Prize** - Benedict Mathematics Competition
 - **District Participation** - Physics Online Quiz Competition *(State Level)*
+  
+  [compilations of certificates I have earned](https://docs.google.com/presentation/d/1y4XvWZLhzclyS69DHDeDht50n6Fx6wBydDIhxnUm_-c/edit?usp=sharing) 
 
 
 ## 🌟 Projects
