@@ -4,7 +4,7 @@ I am a first-year student at the University of Technology Malaysia (UTM) pursuin
 
 As I continue my studies, I am passionate about leveraging technology to solve problems and enhance human interaction. Here are a few highlights of my journey so far:
 
-![Profile Picture](https://drive.google.com/file/d/1bYLnYPqi8knrsrVg_b2opvlg9mQYnBCL/view?usp=sharing)
+![Profile Picture](https://github.com/ShiNi0405/shini_eportfolio/blob/b804826a8338d0e33e8e497aa6d8c9d32f7d8334/profile%20picture.png)
 
 ## 🎓 Education
 
